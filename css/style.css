@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.div_1 ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 80px;
+    color: black;
+    height: 50px;
+}
+.div_1 ul{
+    text-align: center;
+}
+
+.div_1{
+
+    background-color: rgb(236, 103, 14);
+    
+
+}
+a:hover{
+    color: blue;
+    font-size: 20px;
+}
